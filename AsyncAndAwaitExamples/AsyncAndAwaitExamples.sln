@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAndAwaitExamples", "As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalingAsync", "ScalingAsync\ScalingAsync.csproj", "{BA9ACA4B-DFA3-4102-AB28-8F3C5AE5976E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigureAwait", "ConfigureAwait\ConfigureAwait.csproj", "{5CAA95A0-E5AC-4E5D-BE66-BEF9A84FBFD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BA9ACA4B-DFA3-4102-AB28-8F3C5AE5976E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA9ACA4B-DFA3-4102-AB28-8F3C5AE5976E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA9ACA4B-DFA3-4102-AB28-8F3C5AE5976E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CAA95A0-E5AC-4E5D-BE66-BEF9A84FBFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAA95A0-E5AC-4E5D-BE66-BEF9A84FBFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAA95A0-E5AC-4E5D-BE66-BEF9A84FBFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAA95A0-E5AC-4E5D-BE66-BEF9A84FBFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
