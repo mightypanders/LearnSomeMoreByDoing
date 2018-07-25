@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SynchronizingExample", "SynchronizingExample\SynchronizingExample.csproj", "{A365DD73-ECE2-4E58-9C7E-78A304FF9F09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A365DD73-ECE2-4E58-9C7E-78A304FF9F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A365DD73-ECE2-4E58-9C7E-78A304FF9F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A365DD73-ECE2-4E58-9C7E-78A304FF9F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A365DD73-ECE2-4E58-9C7E-78A304FF9F09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF14C156-D315-4693-803E-F0CFE3E2063F}
+	EndGlobalSection
+EndGlobal
